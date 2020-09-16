@@ -1,1 +1,52 @@
 /* You can add global styles to this file, and also import other style files */
+@import url(//db.onlinewebfonts.com/c/157c6cc36dd65b1b2adc9e7f3329c761?family=Amazon+Ember);
+h1 {
+    font-family: "Amazon Ember Light"!important;
+  }
+ .body1 {
+    color: #fff;
+    background: #044182;
+    font-family: 'Roboto', sans-serif;
+}
+.signup-form form {
+    color: #999;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    background: #fff;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    padding: 30px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+form {
+    display: block;
+    margin-top: 0em;
+}
+.mg-primary{
+    background-color: #044182;
+}
+.mtext-primary {
+   color: #044182;
+}
+hr {border-top: 1px solid #000; width:50%;}
+
+a {color: #000;}
+
+a:link{text-decoration:none;}
+
+.box1{background: rgb(76, 175, 80, 0.6);}
+.box2{background: rgb(192, 192, 200, 0.6);}
+.box3{background: rgb(255, 0, 0, 0.6);;}
+
+
+
+#author a{
+  color: #fff;
+  text-decoration: none;
+    
+}
+.html {
+    scroll-behavior: smooth;
+  }
